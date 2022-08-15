@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD ALOMGEER HUSSEIN</h1>
 <h3 align="center">A passionate Computer Vision & Machine Learning Researcher, UX/UI Designer</h3>
-<img align="right" alt="Coding" width="400" src="http://cyberneticsarenow.tumblr.com/post/60251791093/im-trying-to-free-your-mind-neo-but-i-can-only">
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalomgeerhussein&label=Profile%20views&color=0e75b6&style=flat" alt="mdalomgeerhussein" /> </p>
 
