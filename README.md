@@ -1,7 +1,6 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/273977149_4834884356596235_1351370237380694043_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHOmWF9v6LFzxEY45QgKr32I-Tv0i-iXfUj5O_SL6Jd9V4SWCZ1f-0a-jb4Sg2IDX6MV6RqzF9yeBQawM4Qpryr&_nc_ohc=Dmt-ERpKnmIAX-DCtMr&_nc_ht=scontent.fdac41-1.fna&oh=00_AT-ouOlRxX_mTGn5WIESkTVbeH_Wu7mDpJvXEpmGdwNz7w&oe=62FEEECF)
 <h1 align="center">Hi 👋, I'm MD ALOMGEER HUSSEIN</h1>
 <h3 align="center">A passionate Computer Vision & Machine Learning Researcher, UX/UI Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="http://cyberneticsarenow.tumblr.com/post/60251791093/im-trying-to-free-your-mind-neo-but-i-can-only">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalomgeerhussein&label=Profile%20views&color=0e75b6&style=flat" alt="mdalomgeerhussein" /> </p>
 
