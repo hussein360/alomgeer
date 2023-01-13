@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD ALOMGEER HUSSEIN</h1>
+<h1 align="center">Hi 👋, I'm Md Alomgeer Hussein</h1>
 <h3 align="center">A passionate Computer Vision & Machine Learning Researcher, UX/UI Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
