@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalomgeerhussein&label=Profile%20views&color=0e75b6&style=flat" alt="mdalomgeerhussein" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **GNN**
 
-- 💬 Ask me about **CV,ML, UX/UI**
+- 💬 Ask me about **Data Science,ML,GNN, Anomaly Detection**
 
-- 📫 How to reach me **mdalomgeerhussein@gmail.com**
+- 📫 How to reach me **mdalomh1@umbc.edu**
 
 - ⚡ Fun fact **I am a good Listener**
 
