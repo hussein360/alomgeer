@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GNN**
 
-- 💬 Ask me about **Data Science,ML,GNN, Anomaly Detection**
+- 💬 Ask me about **Data Science, ML, GNN, Anomaly Detection**
 
 - 📫 How to reach me **mdalomh1@umbc.edu**
 
